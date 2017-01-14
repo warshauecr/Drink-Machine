@@ -6,7 +6,7 @@
 
 /**
  *
- * @author The Beast
+ * @author Casey Warshauer
  */
 import javax.swing.*;
 import java.awt.*;
