@@ -175,7 +175,7 @@ changePanel.add(changeButton);
 add(changePanel, BorderLayout.SOUTH);
 }
 
-//Event handler inner class. Executes when one of the drink buttons is pushed
+//Makes use of inner classes for this example and implements ActionListener. Executes when one of the drink buttons is pushed
 
 private class EventListener implements ActionListener
 {
